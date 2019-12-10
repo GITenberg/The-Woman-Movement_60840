@@ -1,0 +1,49 @@
+_repo: The-Woman-Movement_60840
+_version: 0.0.1
+alternative_title: Kvinnarörelsen. English
+contributor:
+  author_of_introduction:
+    agent_name: Ellis, Havelock
+    alias: Ellis, Henry Havelock
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '2654'
+    url: http://www.gutenberg.org/2009/agents/2654
+    wikipedia: http://en.wikipedia.org/wiki/Havelock_Ellis
+  translator:
+    agent_name: Borthwick, Mamah Bouton
+    aliases:
+    - Cheney, Mamah
+    - Borthwick, Martha
+    - Cheney, Martha Borthwick
+    birthdate: 1869
+    deathdate: 1914
+    gutenberg_agent_id: '36911'
+    url: http://www.gutenberg.org/2009/agents/36911
+    wikipedia: https://en.wikipedia.org/wiki/Mamah_Borthwick
+creator:
+  author:
+    agent_name: Key, Ellen
+    alias: Key, Ellen Karolina Sofia
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '502'
+    url: http://www.gutenberg.org/2009/agents/502
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
+description: ''
+gutenberg_issued: '2019-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60840'
+  lccn: '12027808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Feminism'
+- GITenberg
+title: The Woman Movement
+url: http://www.gutenberg.org/ebooks/60840
