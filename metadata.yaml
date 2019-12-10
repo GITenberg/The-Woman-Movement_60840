@@ -1,5 +1,5 @@
 _repo: The-Woman-Movement_60840
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Kvinnarörelsen. English
 contributor:
   author_of_introduction:
@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '36911'
     url: http://www.gutenberg.org/2009/agents/36911
     wikipedia: https://en.wikipedia.org/wiki/Mamah_Borthwick
+covers:
+- cover_type: archival
+  image_path: 60840-h/images/cover.jpg
 creator:
   author:
     agent_name: Key, Ellen
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/502
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60840#The-Woman-Movement
 gutenberg_issued: '2019-12-03'
 gutenberg_type: Text
 identifiers:
